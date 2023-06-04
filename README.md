@@ -1,4 +1,4 @@
-<h1 align="left" id="ardisca-title">:wave: Hello there! I'm Ardisca Evanandy/h1>
+<h1 align="left" id="ardisca-title">:wave: Hello there! I'm Ardisca Evanandy</h1>
 
 <!--
 **Ardisca/Ardisca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#ardisca-tech">
-        <img src="./img/codeigneter.svg" width="48" height="48" alt="Codeigniter" />
+        <img src="./img/codeigniter.svg" width="48" height="48" alt="Codeigniter" />
       </a>
       <br>Codeigniter
     </td>
